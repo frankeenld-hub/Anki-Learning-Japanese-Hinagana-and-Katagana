@@ -1,6 +1,10 @@
-# 日语假名与日常表达
+<div align="center">
 
-[![中文](previews/language-zh.svg)](README.zh-CN.md) [![English](previews/language-en.svg)](README.md)
+[English](README.md) · **简体中文**
+
+</div>
+
+# 日语假名与日常表达
 
 面向日语初学者的545张Anki卡片，提供完整的中文讲解版和英文讲解版。通过假名识读、笔顺练习和常用词与表达，把字形、读音和意思联系起来。
 

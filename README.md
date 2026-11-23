@@ -1,6 +1,10 @@
-# Japanese Kana and Everyday Expressions
+<div align="center">
 
-[![中文](previews/language-zh.svg)](README.zh-CN.md) [![English](previews/language-en.svg)](README.md)
+**English** · [简体中文](README.zh-CN.md)
+
+</div>
+
+# Japanese Kana and Everyday Expressions
 
 545 Anki cards for Japanese beginners, with complete English-explanation and Chinese-explanation editions. Learn hiragana and katakana, practice kana handwriting, and connect written forms with everyday Japanese words and expressions.
 
