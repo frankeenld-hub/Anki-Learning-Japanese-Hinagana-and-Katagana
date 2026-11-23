@@ -1,0 +1,49 @@
+Suggested title
+Japanese Kana and Everyday Expressions 545 Cards English Edition
+
+Short summary
+Study Japanese with 545 Anki cards covering hiragana, katakana, kana handwriting, and everyday words and expressions. English explanations, romaji, Japanese text-to-speech, and step-by-step stroke diagrams connect the sounds with the shapes you read and write.
+
+Full description
+Learn to recognize, pronounce, and write Japanese kana, then connect them with everyday Japanese.
+
+This complete English-explanation edition is for beginners learning Japanese and for learners refreshing their kana. A separate complete Chinese-explanation edition is also available. Choose the explanation language that suits you. Each edition contains 545 cards with the same section structure.
+
+What is included
+
+• 108 hiragana reading cards, comprising 104 kana cards and 4 reading tips.
+• 105 katakana reading cards, comprising 104 kana cards and 1 reading tip.
+• 217 kana handwriting cards.
+• 115 everyday Japanese cards covering common words, expressions, and connections between written forms and readings.
+
+Study kana in useful groups
+
+Kana follow gojuon rows, with five together where appropriate, such as かきくけこ (ka ki ku ke ko). Contracted sounds are grouped in threes, while small kana and long-vowel content have separate groups. Comparison tables use large kana and romaji so you can examine neighboring sounds and shapes.
+
+Connect forms, readings, and meanings
+
+Japanese examples include romaji as a pronunciation aid. For instance, こんにちは is shown as konnichiwa because its final は is pronounced wa in this greeting. A comparison such as 山 → やま → ヤマ (yama, mountain) helps connect kanji, hiragana, and the corresponding katakana. That katakana form is a script-matching exercise.
+
+A limited number of cards use uncommon sound combinations for kana drills. These are labeled as practice combinations rather than taught as everyday vocabulary.
+
+The green Notes section opens by default, keeping explanations and examples visible. You can collapse it to test your recall.
+
+Practice writing one stroke at a time
+
+SVG diagrams show the current stroke in red and completed strokes in black. Blue dots mark starting points and arrows show writing direction. Copy the character, try it again from memory, and compare your result with the finished shape.
+
+Pronunciation and import
+
+Every card uses Anki-native Japanese ja_JP text-to-speech. Playback requires a compatible Anki client and an available Japanese voice. Linux also needs a compatible TTS engine or add-on. The voice on your device determines how the speech sounds. Setup guidance is in the Anki manual at https://docs.ankiweb.net/manual/templates/fields .
+
+Download Japanese-Kana-Foundations-English.apkg and import it into Anki. Start with a small daily new-card limit, review due cards, and add handwriting practice as you progress. No prerecorded audio files are bundled.
+
+Content and credits
+
+The educational text and examples were newly authored for this project using common kana conventions and lexical facts. The material was prepared with AI assistance and checked for readings, examples, formatting, and package integrity. Stroke paths come from KanjiVG by Ulrich Apel, with adapted step-by-step layouts and coloring.
+
+Newly authored educational content and adapted KanjiVG diagrams are licensed under CC BY-SA 3.0. Detailed provenance is provided in the project README, SOURCES, and THIRD_PARTY_NOTICES files.
+
+KanjiVG project https://kanjivg.tagaini.net/
+CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+License legal text https://creativecommons.org/licenses/by-sa/3.0/legalcode

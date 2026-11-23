@@ -1,0 +1,26 @@
+Japanese Kana and Everyday Expressions
+Chinese and English editions with 545 cards each
+
+Two complete Anki decks for beginning Japanese learners.
+
+Each edition contains
+- 108 hiragana reading cards
+- 105 katakana reading cards
+- 217 handwriting cards with progressive stroke diagrams
+- 115 everyday words and expressions
+
+Kana are grouped by gojuon row. Examples include romaji, and the notes explain basic reading patterns in Chinese or English. Japanese pronunciation uses Anki-native TTS and requires a compatible client with a Japanese voice.
+
+Download the explanation language you prefer
+- Japanese-Kana-Foundations-Chinese.apkg
+- Japanese-Kana-Foundations-English.apkg
+
+Both packages start as new cards. SHA256SUMS.txt provides checksums.
+
+Educational content and adapted diagrams use CC BY-SA 3.0. Stroke paths are from KanjiVG by Ulrich Apel. See the README, SOURCES.md, and THIRD_PARTY_NOTICES.md for credits and usage details.
+
+KanjiVG
+https://kanjivg.tagaini.net/
+
+CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,4191 @@
+[
+  {
+    "glyph": "の",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306e.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306e.svg",
+        "sha256": "907d28f00bf9c9e30aa53ae817f8be73a0e93b7171bd5e198ce5f4116a68c161"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306e.svg",
+        "sha256": "8674a1c360c8f2f2e2c4d897b6cb5acfb0ecb4534a9673bfda79654cdea555ec"
+      }
+    }
+  },
+  {
+    "glyph": "は",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306f.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306f.svg",
+        "sha256": "353b377d26389709a8a21481aba56fa6c4204367074d6b320b01d7fc7aa4bdcf"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306f.svg",
+        "sha256": "00e90654a1f621248e8515bd22d58d1af3d34053b0731d8657893c2505464703"
+      }
+    }
+  },
+  {
+    "glyph": "ひ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03072.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03072.svg",
+        "sha256": "01c91501f2cf08efdfaf05bc3de1689fb368d0de7fed132aed6ecbaa1f34b8a4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03072.svg",
+        "sha256": "519de97912f68fe9453c6aea37abe3acf57db4a681d767d8a4db7b4f420cea89"
+      }
+    }
+  },
+  {
+    "glyph": "ふ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03075.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03075.svg",
+        "sha256": "161cf36bdd7e06b44ec9f8f54b46a4304426da570e02010cdfdba369723a466c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03075.svg",
+        "sha256": "b4edc0244ed54544c3ada6f1cbb87dd1a7a088f940817c0030f2ddcf1388edfe"
+      }
+    }
+  },
+  {
+    "glyph": "へ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03078.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03078.svg",
+        "sha256": "e82611e076be192dcb189fe36659b828768f06ec818941e983bc066dd23bc3e4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03078.svg",
+        "sha256": "25ce7cba347917ecb95dd70f8a4aa23763f74b88db03c41a16acf623c81fb973"
+      }
+    }
+  },
+  {
+    "glyph": "ほ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307b.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307b.svg",
+        "sha256": "6f8a613ca6112d0b201c8a63a2fe3ccfd1877ec4b6542456f335ab33fdcc047a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307b.svg",
+        "sha256": "851f5c292b30938fae4b5344dcef963e9a0464752be1a5f771b91f238eefad64"
+      }
+    }
+  },
+  {
+    "glyph": "ま",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307e.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307e.svg",
+        "sha256": "37207d960a17e6e94e62c8985baa4f92447b83c48d8ac1379ae928b30d269582"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307e.svg",
+        "sha256": "ecefe9617db0cbf3f82088e952b5f2190af948fd8048ea53bfb6da6917efcb8a"
+      }
+    }
+  },
+  {
+    "glyph": "み",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307f.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307f.svg",
+        "sha256": "790f23375ff8fb21e78a9f95f6c7705960b930a25432f7b48b256e7065f9b12a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307f.svg",
+        "sha256": "1b36ae9f5d7e315f98b37af4ecd6d90643111c6e23554b7af123fea4925bc303"
+      }
+    }
+  },
+  {
+    "glyph": "む",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03080.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03080.svg",
+        "sha256": "29853aeebf78561b9229b3abb5d1f8474f847a0afd43e15604e59053fed6ef6f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03080.svg",
+        "sha256": "a93e6cf3ab9013471cb41d44b8b30c2a641a71b5df079a20966830ebe1ee2c11"
+      }
+    }
+  },
+  {
+    "glyph": "め",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03081.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03081.svg",
+        "sha256": "a49657e4cf51c0efe11ed3085f2354764734821faca25615d261facc3a2167f8"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03081.svg",
+        "sha256": "453c8b1767a0cbe934bd91c81484c29c658c69ed5905d43facfd5cb14a47d3b0"
+      }
+    }
+  },
+  {
+    "glyph": "も",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03082.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03082.svg",
+        "sha256": "0a74d5bd151832521439e2b73821012ef09098f0c1c664fce8ec69c1f334aec5"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03082.svg",
+        "sha256": "9746ea082d1d02a1ff44a3d6d3cd0c8b9675bdc117d3ec0ae9f84005203a0ca4"
+      }
+    }
+  },
+  {
+    "glyph": "や",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03084.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03084.svg",
+        "sha256": "46a54857ca124676386a12077064b5a81025f6bbe37a79454686524d01c3a132"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03084.svg",
+        "sha256": "be61f07acfd7048b0112f515431eb56eec7bac39c4c70e4b5cef1ad1e5a8bd70"
+      }
+    }
+  },
+  {
+    "glyph": "ゆ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03086.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03086.svg",
+        "sha256": "d644088d172884f7b1be02f4f84e34b3a72c1dcd866bc8a436775b05d8a702f7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03086.svg",
+        "sha256": "8809cbd8eda6e96a2a4f21475ffa4b29e2efa70e65219a16c7aecf32d9339460"
+      }
+    }
+  },
+  {
+    "glyph": "よ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03088.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03088.svg",
+        "sha256": "a17eaabc95e5723b9868511a4d3331babd2d023f3dc17b3df48b732599a6ef85"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03088.svg",
+        "sha256": "7bbcbef984b9c3274fdb1373d234a82f2e8e160386274c6e6ff19c84d55707c7"
+      }
+    }
+  },
+  {
+    "glyph": "ら",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03089.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03089.svg",
+        "sha256": "7ac149e02e853567d0da4da655af9df7180e016f63fd3f6c1d2aa974c6ebcb9f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03089.svg",
+        "sha256": "b0704ff666d0e21042ae69d185ff41588877d7952aaecea2505e9987eca49b9c"
+      }
+    }
+  },
+  {
+    "glyph": "り",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308a.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308a.svg",
+        "sha256": "7a49247782148439cde95cebdb8164ccaf2dec30e008cf8d2620e54e4114a594"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308a.svg",
+        "sha256": "f48924da3d0cb6b087b82971bfde4addda014a2c562f1465c28f69b7d17ca12a"
+      }
+    }
+  },
+  {
+    "glyph": "る",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308b.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308b.svg",
+        "sha256": "b95d1afc6b548a2f8ae777f7b1f4e51e024ccd168873b556cb8b6048e018387d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308b.svg",
+        "sha256": "e41a95e2b3ab6fafa9732b1c1c9ac88541098440e350423083ca095114d79243"
+      }
+    }
+  },
+  {
+    "glyph": "れ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308c.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308c.svg",
+        "sha256": "0b1a50c0dc6d15a3e5bbfb484576bb574d80a0228bf0b0c8a22e2443c2e5e2ad"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308c.svg",
+        "sha256": "de1eb1b6030adb431df4d20cfd0d33ff253d4dda8e89f21cb4e300fb3e65493b"
+      }
+    }
+  },
+  {
+    "glyph": "ろ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308d.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308d.svg",
+        "sha256": "16c15b33a631ab850872297a8ff867ec70639748a92f21678d1fdd348d5c31da"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308d.svg",
+        "sha256": "4dc3e83d63e239bed67fcdf045b991a913edf8741bb647ffed1befd3fdb48394"
+      }
+    }
+  },
+  {
+    "glyph": "わ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308f.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308f.svg",
+        "sha256": "d9ba0e31ad7b30c6082dd30a26f43c0fbfa1de647fec82ac40cb5ff44f32a87e"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308f.svg",
+        "sha256": "c3ec44e6e7f29d3a8c850c6045b9ab77e614e1bdb6b996883c5ac5b2c1e1a904"
+      }
+    }
+  },
+  {
+    "glyph": "を",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03092.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03092.svg",
+        "sha256": "1ea61533232d876a56739dfd5e799d284e3b05de104d217cea67694574ff55c6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03092.svg",
+        "sha256": "d50bc6ad2f321403de39bf55f76c68e17a585deb460a79f116bf8675d3cf848d"
+      }
+    }
+  },
+  {
+    "glyph": "ん",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03093.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03093.svg",
+        "sha256": "149e17286274fdc5a40dab91cdee38d1bb6056c00a24fc620f5ec553bfed3f68"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03093.svg",
+        "sha256": "dff4c0f6591c268166ceba65c77c6c17151aece60f18d6adcafaa3567265291b"
+      }
+    }
+  },
+  {
+    "glyph": "が",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304c.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304c.svg",
+        "sha256": "d7df97ddfea78a1eab6439a1dd7ed75c0fe90ec1fdb3f435cb250ff64387901b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304c.svg",
+        "sha256": "00033e0c581c80cc521583fcad75df4601566ee9aa0f95c342c94f916adf91fa"
+      }
+    }
+  },
+  {
+    "glyph": "ぎ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304e.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304e.svg",
+        "sha256": "ad1da6e8c54382140f042b053eb48e6e490a05a1a913239c66a10e6be005236a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304e.svg",
+        "sha256": "676ea8aab566d498682e18bd0e5e9a02280edaf3d77c3af8313c8eb9adf02ccf"
+      }
+    }
+  },
+  {
+    "glyph": "ぐ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03050.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03050.svg",
+        "sha256": "e70a1897fc7e87d1d8024b036e3545560c8cb8d10e4449e1f3b1fce5f7c19c75"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03050.svg",
+        "sha256": "c9c3f9a16fe2c9e41aa1a6df2b47fadbaa0ba032a19864cdd745a5e942d7d44b"
+      }
+    }
+  },
+  {
+    "glyph": "げ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03052.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03052.svg",
+        "sha256": "a2c5434b8fece7c93ae6d42cd0d388daa6ee17836c9b16d4c2f076988532f4c4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03052.svg",
+        "sha256": "9fb55bb4ca2e83dbf413f00e618eb6ada56d6d7268d3e3559042231aff306cc2"
+      }
+    }
+  },
+  {
+    "glyph": "ご",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03054.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03054.svg",
+        "sha256": "013ed621567c3b4629184387885112b4c3f5dbac48a03e80598bb93e228373e7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03054.svg",
+        "sha256": "594caa96210204b39a9d5a70b56dc8acb67c39d552fe1d35629d5dc6a089f744"
+      }
+    }
+  },
+  {
+    "glyph": "ざ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03056.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03056.svg",
+        "sha256": "668ea5cfff7e4ebd328162cbb89f5914b16534694a690b00e31a052c2335e892"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03056.svg",
+        "sha256": "e0594f9c2f5c5a7bf1a7c0e1efc17b36585a853cae86088c508e565fa5b94966"
+      }
+    }
+  },
+  {
+    "glyph": "じ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03058.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03058.svg",
+        "sha256": "4c1ebabbeeceffb9ee5b1c3d2ed7a9a0397bdd5dbb215a74c99e91b0869c2882"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03058.svg",
+        "sha256": "a5fb3820c5a5f5c9f68e8f7f5764a436cb2897228df08f78f2fbac2abd59f1f8"
+      }
+    }
+  },
+  {
+    "glyph": "ず",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305a.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305a.svg",
+        "sha256": "a3d62015771884171192a6504ff86c62b04a2f8d800bef2bf18a40233fcc3ee7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305a.svg",
+        "sha256": "cabfa59347c00eb74afd1fa25c4140bec5575fc11a2876b10dfcb26220064432"
+      }
+    }
+  },
+  {
+    "glyph": "ぜ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305c.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305c.svg",
+        "sha256": "8bc92bf7fc18e456a9323f0031bb7d79e129a2c092bed3df68b273a4c2fe6afb"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305c.svg",
+        "sha256": "08532947e445dc4bb6a41f53b7f8a0ad274436d760f055efa8bb5bcbe19814a2"
+      }
+    }
+  },
+  {
+    "glyph": "ぞ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305e.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305e.svg",
+        "sha256": "7a758868b859fa9a436b67207271a0f9bfbcb5bc780d29db10e50d119135d468"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305e.svg",
+        "sha256": "74273f998dff02b53b0653ea804cab6234a5f3199a21fe77f00860f68784d859"
+      }
+    }
+  },
+  {
+    "glyph": "だ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03060.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03060.svg",
+        "sha256": "6f03840497e5e07b9da5561607174e553f127dda477d24c9d4125e53157e25eb"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03060.svg",
+        "sha256": "52c50084b3713370fd8a651eb3255c42d05fa93adbbb8b7a9bc8d6415a12f828"
+      }
+    }
+  },
+  {
+    "glyph": "ぢ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03062.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03062.svg",
+        "sha256": "0cd811034fd041c8f6550d43aa358e2424f7f359f8508a78dd26d5876d2737b1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03062.svg",
+        "sha256": "9cea77e43b2414e15a734a004e6ac8e89b6fb93815caa57dd4ca6b264571f64c"
+      }
+    }
+  },
+  {
+    "glyph": "づ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03065.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03065.svg",
+        "sha256": "c4cbea6bbc8b827315895db10a6db88077ddef0f1d872037c8fe7c95242a4ad3"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03065.svg",
+        "sha256": "319235597c916412e468f66ad5f28784a3e8e059f7b386a58895b63ddbe9a9ff"
+      }
+    }
+  },
+  {
+    "glyph": "で",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03067.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03067.svg",
+        "sha256": "a1628833c38c74cc1b96ae565b5d821fe895973de24a220b3e1bb03d4500a091"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03067.svg",
+        "sha256": "15f48c65dd5c6011a8dcd54cdebf25dd59ebe24b92bc21bc11eb21437ac5c4c9"
+      }
+    }
+  },
+  {
+    "glyph": "ど",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03069.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03069.svg",
+        "sha256": "f4e054e589d40a07771af47ffa4857661026771b9003ef10064c1ee8c54a4030"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03069.svg",
+        "sha256": "75f48d4e0e2c848b4624e1f8b686d71f20af34ec8117475af3eba8debb7c0ef2"
+      }
+    }
+  },
+  {
+    "glyph": "ば",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03070.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03070.svg",
+        "sha256": "23095e760e50bf9527933a9143595b3b38351e059f2302ec74f17589515aa874"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03070.svg",
+        "sha256": "9943bf9d603cc4212abe5318d5b57018fd589499fad938e503111fc1fc6d0963"
+      }
+    }
+  },
+  {
+    "glyph": "び",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03073.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03073.svg",
+        "sha256": "54ca9767bc10a2c902a528ae95844b6be2a88e2698c47fec41506ec19c0be412"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03073.svg",
+        "sha256": "5f50f8982c17542e527a2ac067f5dc2d8c724958eeb12c812632a979095d7685"
+      }
+    }
+  },
+  {
+    "glyph": "ぶ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03076.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03076.svg",
+        "sha256": "26dbb668ed24b44af1a7ef5c4316021866526e401e416b42121fdedb88420f3a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03076.svg",
+        "sha256": "b558215e0f790ddbcffa45005ebdadd936a5a39763ca636cbf98a100ace90c1f"
+      }
+    }
+  },
+  {
+    "glyph": "べ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03079.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03079.svg",
+        "sha256": "8990bbc4cf15e11c3fc53a855ed3962d0a41f971cd9b0def8e8361e9a2c19574"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03079.svg",
+        "sha256": "223b1927765d02c2482974ab3ce17e2073964a4cb6bf939d4f30ba83bc0dc76b"
+      }
+    }
+  },
+  {
+    "glyph": "ぼ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307c.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307c.svg",
+        "sha256": "1be8e242bc507d4b5b9d1d2dab5f15b06f72757e74bdd2f9131febbe3bdd1b51"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307c.svg",
+        "sha256": "f0ec9e3cee7197dd24688eab8ee3422561c95655b28cc763e86e62ca6ce4b233"
+      }
+    }
+  },
+  {
+    "glyph": "ぱ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03071.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03071.svg",
+        "sha256": "be6852ce52ddc95e3e7d55c164b413f22422c4d0567a06cff85844dfc9b4479c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03071.svg",
+        "sha256": "2a6f61c484d5a8c4f55bae4bf99d9bd9a8356f86fdb7f61402389422ee7d55aa"
+      }
+    }
+  },
+  {
+    "glyph": "ぴ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03074.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03074.svg",
+        "sha256": "20c311b0266717ff42a85e126a3f3dbf24e1c41bd34496c4b084176e7ba27a33"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03074.svg",
+        "sha256": "c910448277c9be295977321944fe799a3233d4a33784531432badff36e29aadd"
+      }
+    }
+  },
+  {
+    "glyph": "ぷ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03077.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03077.svg",
+        "sha256": "39c691a54b6715151a9b8e8779c288d4a5c43d16f257521083e9dbdc4c5c6397"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03077.svg",
+        "sha256": "4e2175704083427d193c8d6269680b307ed60d128818a5b74a0515ddc7ddb37d"
+      }
+    }
+  },
+  {
+    "glyph": "ぺ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307a.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307a.svg",
+        "sha256": "53d32632e03757bf84027bac0bce712e22db2e722b1026b03e3843d72ce1a06c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307a.svg",
+        "sha256": "1ce60eabf45ad6e2775b293a808f88715c0c63a43b7562e21a253fa85329eb0f"
+      }
+    }
+  },
+  {
+    "glyph": "ぽ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307d.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307d.svg",
+        "sha256": "2f9b50ac67aa31373fae792cb2a76ad48d9c0f3475fb8c7a9433e13ab2066ddb"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307d.svg",
+        "sha256": "e4693bb4c5143eae894b69112df0253ee5625a6b2f0d82e126cd87aaba53288d"
+      }
+    }
+  },
+  {
+    "glyph": "きゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304d.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304d-03083.svg",
+        "sha256": "737bd8c18b5c30050787a240eaf028ee885ff8892a61b8bf0f4dec426264cae5"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304d-03083.svg",
+        "sha256": "7421504a1aeb09fbc28b48b40fac4299dee69971ee2c1bbdcec0e91df8c2fd0d"
+      }
+    }
+  },
+  {
+    "glyph": "きゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304d.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304d-03085.svg",
+        "sha256": "192b010e2488a6d2e255533ce53c0b39ab154d59fc719d3ad9d4e28846afed1c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304d-03085.svg",
+        "sha256": "c1d892cadd31a0a0dac7de72f7d2525d9d8401335c84605cf0c91293541dc24c"
+      }
+    }
+  },
+  {
+    "glyph": "きょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304d.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304d-03087.svg",
+        "sha256": "f75cc504b7f2750672bb482fd786d2249252cea2965d7a66a4aaca2130ede1af"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304d-03087.svg",
+        "sha256": "3e5440c269e4ba263c62a638e3ef190bd870965f277eb7d723948b158f237cd4"
+      }
+    }
+  },
+  {
+    "glyph": "しゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03057.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03057-03083.svg",
+        "sha256": "228675ed9b87dc9f17a87b8dd444fecf8e1796439acdc35d7bbdf0da200da4e2"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03057-03083.svg",
+        "sha256": "328a397122987ab557e5d8b0a1b7bb9fddd3873b8f8bd2ef647a0e86170f69b3"
+      }
+    }
+  },
+  {
+    "glyph": "しゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03057.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03057-03085.svg",
+        "sha256": "32c78bd429862ee219b0981b1bedad7a7557433d7f362e45d6c7356a20af2bcf"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03057-03085.svg",
+        "sha256": "460fa50a3df2ca74dc088ec3e14364c461bf9cf266beb99bf61ba05afbf503ba"
+      }
+    }
+  },
+  {
+    "glyph": "しょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03057.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03057-03087.svg",
+        "sha256": "adaba6dc15d51606a0763ab5ad01104925f43adcc23fc5ad0c3fa5e9d8e33d13"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03057-03087.svg",
+        "sha256": "2059da48c7f841f5dc230dc8d34f93bade2250d4f517ba463c0f4a0349e9d18b"
+      }
+    }
+  },
+  {
+    "glyph": "ちゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03061.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03061-03083.svg",
+        "sha256": "e1d8ec8947e619c887eb0acc7a1266fbca277592881e3b7cebb792482e872521"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03061-03083.svg",
+        "sha256": "c81cfb7fac3a43a87459ce3a525dc688bc39123cbb076cc2caa0444f4158c1f7"
+      }
+    }
+  },
+  {
+    "glyph": "ちゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03061.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03061-03085.svg",
+        "sha256": "04e29d5deada385d750e36c7601b44b4534ae48b8006d9480f694d50a44f8d22"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03061-03085.svg",
+        "sha256": "4d4a947dc4a59ef9362a11b20ee3878984b3db46ffb04408d50c1b38ae064f22"
+      }
+    }
+  },
+  {
+    "glyph": "ちょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03061.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03061-03087.svg",
+        "sha256": "53ea8e3ad826171b6d33547d2c3f748d761fd3395dbdb1aad6d22209091217a3"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03061-03087.svg",
+        "sha256": "45034551a59c38590d2522fc1c82f704b09f0ba868b7032d1b90f32aee97cedb"
+      }
+    }
+  },
+  {
+    "glyph": "にゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306b.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306b-03083.svg",
+        "sha256": "d0df22d25881c7315e1add9915dbd23a0a403978d8a547749ccbe7184b8a073a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306b-03083.svg",
+        "sha256": "7e7a74f74cd588d6fc2672954dc0619b63522f4ff35918ad2fe1bec3a2442452"
+      }
+    }
+  },
+  {
+    "glyph": "にゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306b.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306b-03085.svg",
+        "sha256": "1e3c09d40ce6c19a27ab234842a0f037caabb32b074a852d703bff412c76093d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306b-03085.svg",
+        "sha256": "72be42b2bf654c8c9830d55edc7674254414000753cf2863b3c9ce2a9e23d818"
+      }
+    }
+  },
+  {
+    "glyph": "にょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306b.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306b-03087.svg",
+        "sha256": "76f9327e702527f5b13e4707d0f22ac5a06dcfe83cf4bd7c873edef1a5e9f1c4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306b-03087.svg",
+        "sha256": "27f387dedeeff089b6441b7f3458f6b11da12e488cd13424bd7c7fa59122a972"
+      }
+    }
+  },
+  {
+    "glyph": "ひゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03072.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03072-03083.svg",
+        "sha256": "b6f04c3938de070f65b1ebef9ce0b6889601e034f6263a5239b57f5f629b1ff8"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03072-03083.svg",
+        "sha256": "a8936af32230a3f734df44b9921f30fdb5061a7a600d76a9b3510c3b493db6a2"
+      }
+    }
+  },
+  {
+    "glyph": "ひゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03072.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03072-03085.svg",
+        "sha256": "ee7c217468ac458ac923164a3e9a8ddf6c57581dbc346b77418430980dfe8fd6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03072-03085.svg",
+        "sha256": "a0333d9df88ceb4d58b6f9f6c927b9c25b5dccbb17a32e566b1fdef6700e0db5"
+      }
+    }
+  },
+  {
+    "glyph": "ひょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03072.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03072-03087.svg",
+        "sha256": "3de6dcb284317352bcad86cbf8cd9848be0aa810642970966aab2ca5f1e33599"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03072-03087.svg",
+        "sha256": "6ea2a2861f4ed7d61a40817dc107f1cda0ec54c53e69f053db87de6a76c39060"
+      }
+    }
+  },
+  {
+    "glyph": "みゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307f.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307f-03083.svg",
+        "sha256": "eacb69cd1fbb5c025e316f9283add7b0b2041f64afc49be38c5a09a66a630891"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307f-03083.svg",
+        "sha256": "6e35ed11cd3d1487dcacf29ce778343d29ec6e9a2bd863ef0e52e1c10b67c29b"
+      }
+    }
+  },
+  {
+    "glyph": "みゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307f.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307f-03085.svg",
+        "sha256": "c9d43b032ab33d32d7c819a410a05902026f1c1ae7946da72b1fb92d0ade03de"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307f-03085.svg",
+        "sha256": "d18b1c091a47f643d0216f5b06d1419ea7f900ec50c182c6ee1fec46a3e1013e"
+      }
+    }
+  },
+  {
+    "glyph": "みょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0307f.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0307f-03087.svg",
+        "sha256": "e7d2a7785a2327a09f48b14c416ce071648adaab8339f926e970c95dbe1bedd6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0307f-03087.svg",
+        "sha256": "9aa2e18683cd5ee6faf9bae4305bb29831e857e2ac78e3be369ef8cbaa63f671"
+      }
+    }
+  },
+  {
+    "glyph": "りゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308a.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308a-03083.svg",
+        "sha256": "a4d8ea3083984bf0a824040b3046304bb4522c01e9b4c80ae5d399bc22fd7d9f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308a-03083.svg",
+        "sha256": "0de285febaf01e68d0a1ca61bfe91b94313be20316ad3bd4df9c1dfa21294342"
+      }
+    }
+  },
+  {
+    "glyph": "りゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308a.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308a-03085.svg",
+        "sha256": "95ca9d81e4aa82b7b32fa7dba2d01b592c226bf7670a83db6686f27996614600"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308a-03085.svg",
+        "sha256": "ea5e3791f60a24bf697d6f77b3b9184022ccbbe8125c34984ad9b7b430a9a9d7"
+      }
+    }
+  },
+  {
+    "glyph": "りょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0308a.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0308a-03087.svg",
+        "sha256": "8019ec504866b4519b31f470c127cb111e3e06bb03b44654659f30045e852b6d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0308a-03087.svg",
+        "sha256": "b6fd745286cc96a87f0cf13fb890ef056e94ec36f9f1175a2cb04bbe0bb1a08a"
+      }
+    }
+  },
+  {
+    "glyph": "ぎゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304e.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304e-03083.svg",
+        "sha256": "be819488c44909a1fe92582626e5008eedd3eb6adebd6289480f97819e1e7a87"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304e-03083.svg",
+        "sha256": "17f7fa2ee253229e21b5861a97ddfb18591ab1ea850c5e6ec5a7a1cb78431dd9"
+      }
+    }
+  },
+  {
+    "glyph": "ぎゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304e.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304e-03085.svg",
+        "sha256": "123be18e3a9e6a55c996682a8f7664c2c10a96deeba4b4a5339b3a4ad3137316"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304e-03085.svg",
+        "sha256": "9a8f95cf04a4482c52ab8c4f85b4a2c2c856b3d82a7ae6f9a2c69dc4fa597522"
+      }
+    }
+  },
+  {
+    "glyph": "ぎょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304e.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304e-03087.svg",
+        "sha256": "fa5383c6a02d895069243adc452f3b687294f3ae53b57186954866cf0889c400"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304e-03087.svg",
+        "sha256": "f932599560f45ddb7a85497217407c5b24e02ac8781dff6a2e894034093b59c6"
+      }
+    }
+  },
+  {
+    "glyph": "じゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03058.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03058-03083.svg",
+        "sha256": "a5fbf42d524c4709ba1bc72e421e336cfa16adab7050bd4970da51f16fb3096c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03058-03083.svg",
+        "sha256": "c6705f685937a34f0b2c0fb6f306e3d9b69a68613254c06e6ab51d749f18a514"
+      }
+    }
+  },
+  {
+    "glyph": "じゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03058.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03058-03085.svg",
+        "sha256": "0356fa6444898e124b1c99ce8997572e67239c1f7e36b3bc8bd973292e58f17d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03058-03085.svg",
+        "sha256": "bb1d1d05e63b2021bc995c6f5a1b827276e80e5b5de5e47b4878f73977421d30"
+      }
+    }
+  },
+  {
+    "glyph": "じょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03058.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03058-03087.svg",
+        "sha256": "26b768b2c73ac4b4814ab8a5e966cf6d38977eaddb0b12ee85e1331d5ec2efc6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03058-03087.svg",
+        "sha256": "92eb9e5cbf57ed3b51a337d7321f5ab69510d8c151e97fb4ed9a0bb4588da815"
+      }
+    }
+  },
+  {
+    "glyph": "びゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03073.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03073-03083.svg",
+        "sha256": "6e5d6b30082ce939699700c7e92ae1651fd0baf552e360fa70816fcae2a83dcf"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03073-03083.svg",
+        "sha256": "7a680f2bb14e43737a9c5c48b46c9257ceb4056d1d64173f8d1455ea6ce82a1a"
+      }
+    }
+  },
+  {
+    "glyph": "びゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03073.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03073-03085.svg",
+        "sha256": "3cf791a57adaae58b3a16bfe1d70b4cd1df35cc5628c4b384eb734df95c79af0"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03073-03085.svg",
+        "sha256": "51304aaed1b266b351a57e4c5a2cb3b4158d6be92e3240c7d7820295db7ee854"
+      }
+    }
+  },
+  {
+    "glyph": "びょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03073.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03073-03087.svg",
+        "sha256": "3ba787d6d96fcf6e5000b210d5a79c4bced1d3d49a61cc718e69efc050c462f9"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03073-03087.svg",
+        "sha256": "3f1da28ddda9913aba67ee0c8fa13e73274291e36ae2ba7b40dade046332a09e"
+      }
+    }
+  },
+  {
+    "glyph": "ぴゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03074.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03074-03083.svg",
+        "sha256": "e7e1d52f785527abdf221e8300f1e6df9e9804a8b8e671bd0aedbd45ee25e05d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03074-03083.svg",
+        "sha256": "42366d90fa4e1a8817457b0b322199c89947d714de02d42b24f87d887f8dddb8"
+      }
+    }
+  },
+  {
+    "glyph": "ぴゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03074.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03074-03085.svg",
+        "sha256": "88b06cc1610b01cbfdd264bb2eb95b47761d8d328cf6df065058561f3da6babd"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03074-03085.svg",
+        "sha256": "ca9b98edf3484a10aa5ccd872bce8a91c11d85058dc9c4c06773dd8518783d6b"
+      }
+    }
+  },
+  {
+    "glyph": "ぴょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03074.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03074-03087.svg",
+        "sha256": "58f7d83ddbda6c0e4b3b3079159b47fd60ae9793d8987597436eb3222346837e"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03074-03087.svg",
+        "sha256": "8c2226a32aafcf279ebd78f34fadbef290a13cf6e7bacc1cc42990d3a41d370b"
+      }
+    }
+  },
+  {
+    "glyph": "そ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305d.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305d.svg",
+        "sha256": "daa6905471f80e362da9d8ccf41e956bc810b74017d5b5497f0c52ae6e5c2c08"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305d.svg",
+        "sha256": "8aa0842e570f8a8e29ba66d3d341633c4eba0fd2de43d0dc9fd30f47d79989dd"
+      }
+    }
+  },
+  {
+    "glyph": "せ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305b.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305b.svg",
+        "sha256": "2cbed8a5120a23e0abc93ab875559f0482e2256e91b037bbaa587c738c4651f6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305b.svg",
+        "sha256": "740b7c75d110d83b150eed905a3912976d4242b9e2e40480cfefdaceeade33df"
+      }
+    }
+  },
+  {
+    "glyph": "ち",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03061.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03061.svg",
+        "sha256": "146d8fa5c579e8264949a5ead597c7200e5b67dc2e72b5efe8d1df4d05138e5d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03061.svg",
+        "sha256": "9bec50a878d6a57a2948b07b9b9ba21aa800e17c0c698ce214194c01fe1d25bc"
+      }
+    }
+  },
+  {
+    "glyph": "た",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0305f.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0305f.svg",
+        "sha256": "915e3219c327a8cb3f0d2880b25a44c21e57ee128fab3c57b7d595a1293a323b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0305f.svg",
+        "sha256": "092a0bc1c6727640c691ec7a4f1ced9e686ca952e2c63070a98ec48cd05e4309"
+      }
+    }
+  },
+  {
+    "glyph": "と",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03068.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03068.svg",
+        "sha256": "ab47d216d1542c32412290e2f17ba03c556ae2252c08fae2e48fbc7d65c8b827"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03068.svg",
+        "sha256": "6b5606763a2377a735bace04dded5c1f515daa40b042e3e78ae6efe409f2d794"
+      }
+    }
+  },
+  {
+    "glyph": "こ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03053.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03053.svg",
+        "sha256": "5b9f702c2d6a7935244493d9e20801aceceedc159dc2fd71627e597ac2b5c3dd"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03053.svg",
+        "sha256": "9c6531499a4c0af443be38c7b6069f29bce492a01b00e509857c6d1701c38406"
+      }
+    }
+  },
+  {
+    "glyph": "て",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03066.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03066.svg",
+        "sha256": "770d833ee67f5f349ac1f5f61cb6ef3e67658bb2cc154561859ac9f5ba259671"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03066.svg",
+        "sha256": "1d9932a5a00fab0f15897ee8d2f7af5b407b3bb6688cec880f5c043033d85d45"
+      }
+    }
+  },
+  {
+    "glyph": "な",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306a.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306a.svg",
+        "sha256": "0c164f615326824cb662f4cb0c42beb6a706303e69659d1c4e7d60c685dec561"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306a.svg",
+        "sha256": "8d962f9639bf323343ef9120453788836b3e72bb518893787683fd8d58089273"
+      }
+    }
+  },
+  {
+    "glyph": "に",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306b.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306b.svg",
+        "sha256": "03779a556cc70c68bec315068dd65fcc88c3980f6727cfbeb204239558bf9b39"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306b.svg",
+        "sha256": "245ce413c87f62afd858530723bf71be42310b667036754b567c792765848d29"
+      }
+    }
+  },
+  {
+    "glyph": "さ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03055.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03055.svg",
+        "sha256": "c88c900782cbefdbd5ff6a2b79845a7029e285acd8482bba2a6e40bd77de0ba6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03055.svg",
+        "sha256": "1f3129824fa89d13a6f7cdeb2667548ebfb914af7d65c8492ff272b65046473e"
+      }
+    }
+  },
+  {
+    "glyph": "す",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03059.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03059.svg",
+        "sha256": "d73c4846ec080606eeddeceb2372ddda591e811ac29417989214667d26a43a59"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03059.svg",
+        "sha256": "f4afebc335b02435031265fc387549cfda26a1301f4ce899d6e16e083b51f2e8"
+      }
+    }
+  },
+  {
+    "glyph": "つ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03064.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03064.svg",
+        "sha256": "1bd087a12ecab7965f013288a5557479d654e8a9ca6cdb6b2f455cb91cea0fe0"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03064.svg",
+        "sha256": "333cc2d14051d37b9e36bf8fdbeeb6715c2cc31f0e633874f950e7aad68045f8"
+      }
+    }
+  },
+  {
+    "glyph": "か",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304b.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304b.svg",
+        "sha256": "38fd2aced98ccf1af9b618efac3c4cf98f231a708f6e3edd0fe7533163621f4e"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304b.svg",
+        "sha256": "14a7bfb656c3acf26978d03eee2606aa6c695d2f355cdb438b6c5e498e3ef16b"
+      }
+    }
+  },
+  {
+    "glyph": "ね",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306d.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306d.svg",
+        "sha256": "dec0a47e9b67f289d63470f73f270c380592ba6e6d5fdac4d99cfb42a457e45d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306d.svg",
+        "sha256": "cd99a07e1709abce62f6e57abc8e111d5bf20730293b14d459978a038106ad1c"
+      }
+    }
+  },
+  {
+    "glyph": "く",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304f.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304f.svg",
+        "sha256": "6cde6eb0e283b53d28b7a39f965a09ed4df1140b1858c14d3ea137b06a47f054"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304f.svg",
+        "sha256": "04d04cd243630af1cde8cc2f6c18bb12cf30e94484c65d8a9222b4cedddda248"
+      }
+    }
+  },
+  {
+    "glyph": "う",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03046.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03046.svg",
+        "sha256": "993a30278add7d272f645d40ebc06cb0de6b06808e9ec034bb5de2b682bee61f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03046.svg",
+        "sha256": "a46ad373326f9126454ea67385ead86e3399711e16abd375ad76a2b54d75009f"
+      }
+    }
+  },
+  {
+    "glyph": "し",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03057.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03057.svg",
+        "sha256": "b9c638e6ecd5ae0d6aa0760fa217da8da5732ee684b0479e078bca5ed9950226"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03057.svg",
+        "sha256": "1326b17c603f9359d2244a9eebef8755cd3d8f914cec52b999a730fbd083a39f"
+      }
+    }
+  },
+  {
+    "glyph": "き",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304d.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304d.svg",
+        "sha256": "5d7cddf94582f87adc120a01ba03f50b14a9df5a98de0981554b4be35e8b88a7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304d.svg",
+        "sha256": "30c56daf3d688313cae42ebffe9a8e290213485c055b3e9824bef9bdb61f7e3b"
+      }
+    }
+  },
+  {
+    "glyph": "け",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03051.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03051.svg",
+        "sha256": "f6218ccfe54d1b1fdb785c725a6bf4dbee21606efb331a061307068ccb5ad4e9"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03051.svg",
+        "sha256": "a8d9e1633c4d0ba2adfef06e3fd9180b15a1f41ae9c18bd935bb1b042a89588c"
+      }
+    }
+  },
+  {
+    "glyph": "お",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0304a.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0304a.svg",
+        "sha256": "7cf2b29bcc7e62f23d73c3e4a83c54a39610bee740fb5a8b84c6aede3bf77f28"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0304a.svg",
+        "sha256": "7c1798c28bc0563f25223987a6b7d0c3d00256b0e84f92562613f1fb961e4e7f"
+      }
+    }
+  },
+  {
+    "glyph": "え",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03048.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03048.svg",
+        "sha256": "f16a9de1f1fc351a18055071d36060a3c68780ca99f6262f66f3bcd283a3200c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03048.svg",
+        "sha256": "a1e3d6777f37dda002a806e485522f4374492359106dcdfb5e9e689923f8856d"
+      }
+    }
+  },
+  {
+    "glyph": "ぬ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/0306c.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-0306c.svg",
+        "sha256": "ac3c238c7d70ad9e1eaaaa0759a9836a3c082f81eb9e6f79acd57040856e3c69"
+      },
+      "en": {
+        "filename": "jkf-en-writing-0306c.svg",
+        "sha256": "1b6a394320e4548594d31a93ef1b53fc82feb19809c927f22049e19fee947026"
+      }
+    }
+  },
+  {
+    "glyph": "い",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03044.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03044.svg",
+        "sha256": "fedbb3c94201c5d71466353722aaa9881411222276e8dd84401cf5ca40a81e08"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03044.svg",
+        "sha256": "3732410d34f1fae822b3226c21c82e9fe3436393a0d48af3f834f5222b28b5bd"
+      }
+    }
+  },
+  {
+    "glyph": "あ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03042.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03042.svg",
+        "sha256": "6452c8aaf9d3ce55a17f8992bc332b2cf4368a07d8894ebd889f8d1817bb0dcb"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03042.svg",
+        "sha256": "0b4a16db2f40e846c0101785e709496970ee6c52a15ceaa8c37fa96d2214531c"
+      }
+    }
+  },
+  {
+    "glyph": "ア",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030a2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030a2.svg",
+        "sha256": "59b08d07cbf66122125d4f46718355fd249f5cadd93752fd1a9aea5f56f93e32"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030a2.svg",
+        "sha256": "df104cb5f5f954638b076df0b512c61c4a6c942ee0141c03fb0acb20e0b4786a"
+      }
+    }
+  },
+  {
+    "glyph": "イ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030a4.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030a4.svg",
+        "sha256": "048a621252c145e93f74f651eec44df66d6ec3ec4e3784f655d8b24a9137fecf"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030a4.svg",
+        "sha256": "333382719612bf35cfc74daf6961f5d5746a11917df17044d8592e0d231960d8"
+      }
+    }
+  },
+  {
+    "glyph": "ウ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030a6.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030a6.svg",
+        "sha256": "2bd0c0c1dbb99c5b93a74a5f7c9611b06044806c94e1d855aafe71895b4a2704"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030a6.svg",
+        "sha256": "619af19d295c0209f82af3a03103ae7513dbc15df2d69d75af49b24937743d7a"
+      }
+    }
+  },
+  {
+    "glyph": "エ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030a8.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030a8.svg",
+        "sha256": "7e98b1d4a31a39d99b428d345f16814ab411ad8a4ba9f1e69df400397c1210a2"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030a8.svg",
+        "sha256": "86c8f536f5c7562753c12666cbde05db4d7e891b9a305f1b7e776ae98db21633"
+      }
+    }
+  },
+  {
+    "glyph": "オ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030aa.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030aa.svg",
+        "sha256": "0c720a5cff60960155869ea4669f70bf3e105347d7977e91577b43c0597783c7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030aa.svg",
+        "sha256": "9366c18ea2e9e47e203922a265d97e8650dc29e02cae8c34edebf29f6b58249a"
+      }
+    }
+  },
+  {
+    "glyph": "カ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ab.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ab.svg",
+        "sha256": "1a99071cee398ca1e6967f8b64d4da8567b3ad50d08bc151b4473a06b0281041"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ab.svg",
+        "sha256": "470ef8bce27094459ac6b7c7b8c59d825c39045901f990bd38efeccbe857f038"
+      }
+    }
+  },
+  {
+    "glyph": "キ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ad.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ad.svg",
+        "sha256": "1a6e6ee57e785f1b6d12ff01297f55db399831cc19e3ae90cd156376f8012f92"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ad.svg",
+        "sha256": "64bf7a61371e8ce1c349709c7ba7a249b588756c1f5e7b40ca5838de900f0052"
+      }
+    }
+  },
+  {
+    "glyph": "ク",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030af.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030af.svg",
+        "sha256": "339ba47060981a7059aa9ca60fc750d1c28aafb844f7815ed37d4b5b20ca016f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030af.svg",
+        "sha256": "4131f2ecd7e82f033d36c7e23f796f4d283f8d86e127c9e1841655dcbbcc2c36"
+      }
+    }
+  },
+  {
+    "glyph": "ケ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b1.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b1.svg",
+        "sha256": "7ea215f6c1efed3544b2d99e331fc0897022e7befb2d4373bb48fecdb373cd13"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b1.svg",
+        "sha256": "fe0af639400e0aaa109825c51843526fa94d948fed0f494e9b643ef8828f14fc"
+      }
+    }
+  },
+  {
+    "glyph": "コ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b3.svg",
+        "sha256": "691ddcfac3c917bb5b894a896477e07b0ade324abb8427f221f7349a15bd2426"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b3.svg",
+        "sha256": "80620028026295b4e634e4fb3eff70d62ab5aa8a8ee112614410a536c91ffe50"
+      }
+    }
+  },
+  {
+    "glyph": "サ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b5.svg",
+        "sha256": "4ddabd670b1ea2b2ab592267b98a86b69f8bd7d7d748d84ceb164e81ace31ea4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b5.svg",
+        "sha256": "2f045dc02b2f39eb0cc603b26dfcc7b6b35b914f6732749072992a61b154a785"
+      }
+    }
+  },
+  {
+    "glyph": "シ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b7.svg",
+        "sha256": "48c188a9c7f4ec214c5b5eba526a08a8fb04438c5ba6af47f824582ef7ef4529"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b7.svg",
+        "sha256": "85516e2eb1b87ddca9e035c36d9fd52700e9d6766d769e13972462ea6c1554b8"
+      }
+    }
+  },
+  {
+    "glyph": "ス",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b9.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b9.svg",
+        "sha256": "ca34e1f8e057c7f5addce53c033087dd9192345997919cc398f0278cfaedd27d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b9.svg",
+        "sha256": "a6857f8ae3d7aa46886f513290880653c0363e9e014477cdec441857dff5584d"
+      }
+    }
+  },
+  {
+    "glyph": "セ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030bb.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030bb.svg",
+        "sha256": "09f03efde64a18b31e0013d9ac1a3e0738e724f991eda65ef4d4128341b9d5d2"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030bb.svg",
+        "sha256": "c907a0ca3b4e5422cf82da3ef4b9781ebc72cac0a92a0dc6f3ad773769d6721f"
+      }
+    }
+  },
+  {
+    "glyph": "ソ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030bd.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030bd.svg",
+        "sha256": "baa75429c61add7141b06029b85e5e5e39caf0d3d142c12f4733307717d9f4f7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030bd.svg",
+        "sha256": "64b8218dddd7b1abccdf910e3f437a8b50b91c0d81d57aa07f5544de9ee3ef2c"
+      }
+    }
+  },
+  {
+    "glyph": "タ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030bf.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030bf.svg",
+        "sha256": "734c3b217db94b31fed9e384e9d9f718be0818d65be6caf8020dea00fa0011db"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030bf.svg",
+        "sha256": "d16549c57c6da744d2189b066ee27d094656f477c24a7048ceb520f250f02293"
+      }
+    }
+  },
+  {
+    "glyph": "チ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c1.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c1.svg",
+        "sha256": "3b9bcb1d18488049fc9bdcf0b99ec3da7dce6afe820b036f0d67414302b2fd8f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c1.svg",
+        "sha256": "ac0148cc6643405cf2b04679c1c6daa5e1ec41a235d0fc6a31201eef4e1a063c"
+      }
+    }
+  },
+  {
+    "glyph": "ツ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c4.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c4.svg",
+        "sha256": "9895207d2ff904db475352530060e4a37feeda501d10da4957ef804e82e2553c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c4.svg",
+        "sha256": "52fb330bafbe31abd0f248321562a6bee72997b7d915ae16e08aaf54a601ac04"
+      }
+    }
+  },
+  {
+    "glyph": "テ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c6.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c6.svg",
+        "sha256": "4df1b93fa32f9ccfcf5f61fb9ca432760e4e6784c76b3809993d089c3c154a54"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c6.svg",
+        "sha256": "c5b1acd2487fa917e37021ffd770503c0ae2f245cf2019ed98c367b64d627514"
+      }
+    }
+  },
+  {
+    "glyph": "ト",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c8.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c8.svg",
+        "sha256": "e729685e4e5021c4e21dd39b341991581345dd42eeedc3986283a090016be7c1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c8.svg",
+        "sha256": "dcd84c0a1ee56132818e3edbb8367bb106337d5f07a146c87bd83b00da7bd59d"
+      }
+    }
+  },
+  {
+    "glyph": "ナ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ca.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ca.svg",
+        "sha256": "7c836ee1ae177085864f9659b8733ab62cbed7ed2712ff508ac5240a92c6b571"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ca.svg",
+        "sha256": "34520e357890f0da4ea590ef92f7a69579be1cd582ad3bc72d0aa758c624f11d"
+      }
+    }
+  },
+  {
+    "glyph": "ニ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cb.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cb.svg",
+        "sha256": "ce7a5257cf74ad94ded60a06aa82d58964bfcec3726eaf1f362746938130804f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cb.svg",
+        "sha256": "4f4c3dca426483d63de3c944fbd1c61418d89d65b9d6d764f7dcc403d959fa75"
+      }
+    }
+  },
+  {
+    "glyph": "ヌ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cc.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cc.svg",
+        "sha256": "ed517b880f372b5a78c8eb6fccb8c02180829d77cccfb146a6e462d15499ef9f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cc.svg",
+        "sha256": "2fc67b569213f096fa4691c601f39421f7ac33b2c1d7c366045f90d637ffdd1c"
+      }
+    }
+  },
+  {
+    "glyph": "ネ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cd.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cd.svg",
+        "sha256": "ed4317d5b6176e857102ab8e7e6b3285ed2a7ac0ca0730524dfbe9085eba1b11"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cd.svg",
+        "sha256": "659eca49057b7fe73f22bd8a3e9f05427385e263426a84633b3aa1ae8580bffb"
+      }
+    }
+  },
+  {
+    "glyph": "ノ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ce.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ce.svg",
+        "sha256": "985e5d35c580c654fee17e4fedb861434854b43abd02e58aad6ceadfb8a8c59d"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ce.svg",
+        "sha256": "d144b40de67bfc32d3aeeafa4966a9b6375c25b6d18e58dfcf240ec72e4fe7ce"
+      }
+    }
+  },
+  {
+    "glyph": "ハ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cf.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cf.svg",
+        "sha256": "e09d66b8168b173369741eab51843e555f7124797c9c440416f187860404a794"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cf.svg",
+        "sha256": "bcf3c7f7bcc73b3c21d3fb70bab085f1f62db731b452504b09f6668fe38f6588"
+      }
+    }
+  },
+  {
+    "glyph": "ヒ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d2.svg",
+        "sha256": "62526cbaa5cb93f0b078b1efb4124ba70de4e7a5cd7c9e510a80a862f1560432"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d2.svg",
+        "sha256": "d3fec78341eddc52d200cb79273a89fbc7077d6e41c1c2ffbc0c958a554c9567"
+      }
+    }
+  },
+  {
+    "glyph": "フ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d5.svg",
+        "sha256": "9b9dbe2e50a5f87bfdb31d2aa162d4a51f522f541c282eee2914e447f8856f16"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d5.svg",
+        "sha256": "68ecccec760cda1b2c1d8a8f71a1f1ef541eba99b58a06e86d8b728fecf0e9ed"
+      }
+    }
+  },
+  {
+    "glyph": "ヘ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d8.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d8.svg",
+        "sha256": "4c98cf14e14a8ec338a1e2a9396a6367c4b5f34c1d1d35acab005880f6174feb"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d8.svg",
+        "sha256": "98dd6751e2dc6e83d510ffd10d8daaf13001e039ca685d941a657585e9522495"
+      }
+    }
+  },
+  {
+    "glyph": "ホ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030db.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030db.svg",
+        "sha256": "243bc0d2a06500284bb52920cd513cb624a801864a7f480dab259fff0e7c9dc3"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030db.svg",
+        "sha256": "d28233063e1b4ea1d56972874788f861dfd28683ee9bbd3883f73c0b872c1674"
+      }
+    }
+  },
+  {
+    "glyph": "マ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030de.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030de.svg",
+        "sha256": "731f7ba2bcf5c70706d4fb333e164d47f8f2c63c6694a81a8cc9794e1d74eb6e"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030de.svg",
+        "sha256": "640f6c1aa97aca33141e3c7dfae9bd470019bdeec6512ac6b31f91cc0547c2d6"
+      }
+    }
+  },
+  {
+    "glyph": "ミ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030df.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030df.svg",
+        "sha256": "1796fc3502d0341e02937681c292f1b118495f4f3e440978770ddd2493bfbefe"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030df.svg",
+        "sha256": "d0165950404cb6dfb232e071ab06fb1c7a72f43e73528cd8032b62733ba8e463"
+      }
+    }
+  },
+  {
+    "glyph": "ム",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e0.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e0.svg",
+        "sha256": "97747e984bc11eec7be3baf9f970a14dcc61528ffc89d1f0fe582ac1493a9567"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e0.svg",
+        "sha256": "d3b9877a396412969d0c776f4116e83d29efdfad9e2b0bf970a250576acc3060"
+      }
+    }
+  },
+  {
+    "glyph": "メ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e1.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e1.svg",
+        "sha256": "12ddec1e7f0ed07a3accd2dd3b9482a39fe82caf6ce9e62a9d6caaa0e0d0c6b1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e1.svg",
+        "sha256": "4e6a54432e9cd0a5f98b7be350031536dbbbbc63a9eb4fb52e5ae2ba8e87c93a"
+      }
+    }
+  },
+  {
+    "glyph": "モ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e2.svg",
+        "sha256": "4e91a230e0a9b560f3f8cb8fb4d6b25bb35df51db6f600e3492e038ef517fc00"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e2.svg",
+        "sha256": "25fe236c5cc3ddc79c3d0472f654dc0e47574a7505b5c8bfd89d52ae7fcd280e"
+      }
+    }
+  },
+  {
+    "glyph": "ヤ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e4.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e4.svg",
+        "sha256": "b4f23f8f043426be8f488c4b1f048b94a703ed487e72ed26899b938a87de888c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e4.svg",
+        "sha256": "c56ca91abec0667909c36ce19ef17b4c5cf29f67d4787465560eda127e1571e1"
+      }
+    }
+  },
+  {
+    "glyph": "ユ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e6.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e6.svg",
+        "sha256": "afd72a0066b23a260d38481712e407bdc9e9c12cfaa361bf4dee1492381a3891"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e6.svg",
+        "sha256": "8a22d953c94d1cdde22c0fecabb4fc3d2578d58e57837bd6eced20dfcfab6d65"
+      }
+    }
+  },
+  {
+    "glyph": "ヨ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e8.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e8.svg",
+        "sha256": "12ff53a9865841e3eae94087d0401652b78dfd1e12a5ca4be339c6234e6b54fd"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e8.svg",
+        "sha256": "cc69673ecc4e10ca49972d507e0946da2e4b6f1704ac10b095d062916a803150"
+      }
+    }
+  },
+  {
+    "glyph": "ラ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e9.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e9.svg",
+        "sha256": "0dd9808414c12d9fa4bd0bf1b25101cc928f6c842a8390d90d7e62d5eefebeb6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e9.svg",
+        "sha256": "04becb4980240187036642a762f256fe013032fcaa90d73f0edeac1604075c27"
+      }
+    }
+  },
+  {
+    "glyph": "リ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ea.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ea.svg",
+        "sha256": "314dc054bfec678134512bb1339b903adf0d9f2b37162a42cc18bcb3d4d0abc8"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ea.svg",
+        "sha256": "5bc25d3b2d22b1c941101b0b835950ad70235110f0eea2d425d30905a3a5eba0"
+      }
+    }
+  },
+  {
+    "glyph": "ル",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030eb.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030eb.svg",
+        "sha256": "5dbd1662c6fc1cd1f5baacae54c0cdf4320997afb1d23858cff7e009043fe269"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030eb.svg",
+        "sha256": "79e9a1e583e741287c100c80bf87e57e8bb8052c8bd945ddb3501f7105e48b48"
+      }
+    }
+  },
+  {
+    "glyph": "レ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ec.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ec.svg",
+        "sha256": "07388824b167b6d28f6a2bc64eaea0529b710afdee509edd24906e448ea9b2a9"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ec.svg",
+        "sha256": "8372336993dd6a4fe94aeac831205705e39bf5c4658a71c28358601dbbd1ae60"
+      }
+    }
+  },
+  {
+    "glyph": "ロ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ed.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ed.svg",
+        "sha256": "544d3c583a8954f14e519f610640e91c5b962684c90807bcb604569c1261a60f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ed.svg",
+        "sha256": "dd8023ca45d68a36b74029c5e5a338ff3d478d924ec7c05ac01b47370b88e2a9"
+      }
+    }
+  },
+  {
+    "glyph": "ワ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ef.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ef.svg",
+        "sha256": "756ec2eedde813ba5e993b33907081c947f2378be9dc1c6405262b935bcb721e"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ef.svg",
+        "sha256": "aae955f4280b6fd247787d1ec8abd80ec335d148abccb35e903cb47bdb7769f6"
+      }
+    }
+  },
+  {
+    "glyph": "ヲ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030f2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030f2.svg",
+        "sha256": "38e320aeb8e7f81110acee3aa4e9ead6de5cd8f4e8e147c4dac902f8f7467e85"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030f2.svg",
+        "sha256": "94cc693b5baf06cf4d697463af6d596beeef6a41a67b37faa8dbf951c2ee0c27"
+      }
+    }
+  },
+  {
+    "glyph": "ン",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030f3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030f3.svg",
+        "sha256": "444266f31df3d0a9890817c5745041d25765440f90f00b0bc0fcb4bc8b4e4eba"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030f3.svg",
+        "sha256": "fde6a2cc1936de4799dc6d21c448a51bab093794ebd2ca6657648ce16354920a"
+      }
+    }
+  },
+  {
+    "glyph": "ガ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ac.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ac.svg",
+        "sha256": "41d9a25aa9b316fe57d2fe65f2386cc8ac3455ef3bf2784630ec6d4b046451e4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ac.svg",
+        "sha256": "146890f37b88c5962f2fcdbd9720084feacd25cbc9d677c2a026237a15a6d71d"
+      }
+    }
+  },
+  {
+    "glyph": "ギ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ae.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ae.svg",
+        "sha256": "1ed1b4a928d2c7b343be53a27006443b61512ace03d33767a10021d9abd0204b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ae.svg",
+        "sha256": "7842a11786d5e3ed88fdb950cfac31ec01f07d8edeae11e7f2a8a287ae2c6c15"
+      }
+    }
+  },
+  {
+    "glyph": "グ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b0.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b0.svg",
+        "sha256": "dd43c57b77179ab8c63eaa4346ad0cd09225c570d29586f1332eb710e5c6ca03"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b0.svg",
+        "sha256": "1a83d443db2d8ff41911932b4f668a9ebdccc2ee0cb4b957373a6c4d84ba8680"
+      }
+    }
+  },
+  {
+    "glyph": "ゲ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b2.svg",
+        "sha256": "24259539769bac72dc0dab969a51fcf4a71adfb4d094f04f697afb988ea5df06"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b2.svg",
+        "sha256": "b0d7fab17b7a36a9843c9f96f653147be4910af7658e49c257bff82530374202"
+      }
+    }
+  },
+  {
+    "glyph": "ゴ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b4.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b4.svg",
+        "sha256": "3f80b3b6a4f91e3c98278d89707db1ad4fd4d8d96d2d47fb018602686e84de5b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b4.svg",
+        "sha256": "726709905c0eac7522c8b7a40a57c98066b78a175be565ff8a07096d795fd62f"
+      }
+    }
+  },
+  {
+    "glyph": "ザ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b6.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b6.svg",
+        "sha256": "f3c5dfa908e0cc1c2e73b2a75ff4e2bfd628dd9d053e11099aae771bd9778644"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b6.svg",
+        "sha256": "b410c7e8208ed0db52c14315e4a1f8a14fbab6ca9d95f2fde9101a425712fb4a"
+      }
+    }
+  },
+  {
+    "glyph": "ジ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b8.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b8.svg",
+        "sha256": "18b7fef4379f46bac79de681410c309f975931e02b1cf733cc7d797fbe3d239f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b8.svg",
+        "sha256": "1ffd3117b4ea7d4806e8ba9003a2e36eaf41e308fd224100332f90b595e65930"
+      }
+    }
+  },
+  {
+    "glyph": "ズ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ba.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ba.svg",
+        "sha256": "a3114246320e977085cb675f54817bbcff289c20cdab044f5149ec87ec70a86c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ba.svg",
+        "sha256": "260d37aa4c8791d7912006c8a6a1bf9c545861cc95ae0a49eb1152de322ea02a"
+      }
+    }
+  },
+  {
+    "glyph": "ゼ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030bc.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030bc.svg",
+        "sha256": "52d9210544d3360f46e896ca8807f0f9a8e513d21217bd5f431d778369de4db6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030bc.svg",
+        "sha256": "5f3aa765064eb62ca401106584bed924aed84657b7409e6446a81cacac8b02db"
+      }
+    }
+  },
+  {
+    "glyph": "ゾ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030be.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030be.svg",
+        "sha256": "07165282fd33b65c44a1e13409dec913c00940e0a2bdbddceecb089ad74aefb3"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030be.svg",
+        "sha256": "00fd66e0807e6da042d2494c0d11b7c8c44c7367dfa55f86384341a232a81424"
+      }
+    }
+  },
+  {
+    "glyph": "ダ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c0.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c0.svg",
+        "sha256": "dc6a2ac2ec5c4ebd4d74d77d767519e806775b5a62244f4accab3c6a1b24f667"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c0.svg",
+        "sha256": "80fbcd7bfc7a7d0bf7f70d638c2ee687bb6a4090366ca5bc7575715382241ac8"
+      }
+    }
+  },
+  {
+    "glyph": "ヂ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c2.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c2.svg",
+        "sha256": "7d2cd0cb1dd807d1410d09d29515f7dd13dd34d08749c7bf244fb37b145be408"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c2.svg",
+        "sha256": "3211a3a963761da30c059e548eb744aff1e930e40ae948304811dd34917f1486"
+      }
+    }
+  },
+  {
+    "glyph": "ヅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c5.svg",
+        "sha256": "e44635da577d834843e288460ff833cea2ada0fd9e52dfe0397cc9d4064c32ec"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c5.svg",
+        "sha256": "c4bd6a08d42218bfa26142db46866ba951801f49de8fb779e441bc5b8be59a81"
+      }
+    }
+  },
+  {
+    "glyph": "デ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c7.svg",
+        "sha256": "b199b4d6ba70d25f6d7ff4ef7c0b4965133149c9b3a263500557cd7daa05d3d6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c7.svg",
+        "sha256": "e44e8a02098c79e6f95a01b4840786303e85868fd54613a8fb2f7ce445771bb5"
+      }
+    }
+  },
+  {
+    "glyph": "ド",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c9.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c9.svg",
+        "sha256": "70f64ce8c8da1c376bf0db6ebfc6e9dd360595d06d7c75f818f7152ba2f25d07"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c9.svg",
+        "sha256": "8677082b4e661c35c9a0f37ce8a65fdbd6c03b961317ca1f58eb2c43b705484c"
+      }
+    }
+  },
+  {
+    "glyph": "バ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d0.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d0.svg",
+        "sha256": "b938c5bbb153204a9e4155bac6a3b36d59b0af8e44db0016f5c2bfcfb44df9a4"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d0.svg",
+        "sha256": "1a40c8b2f19a2d357a343fb3e2fa7157bec2437c0faa2fc7c0bdfc3f3d464b7b"
+      }
+    }
+  },
+  {
+    "glyph": "ビ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d3.svg",
+        "sha256": "f376fa7ef06387d4a2cd0d0ce0c30a3de2c22a767f19ce64f4a241ef4ed7a12a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d3.svg",
+        "sha256": "c256feafb23dbaec7c2b3b778eceaab4727b644efa9e190b53cff949a8051978"
+      }
+    }
+  },
+  {
+    "glyph": "ブ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d6.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d6.svg",
+        "sha256": "06c6865fdb6e6c613569620168ed562328c667a9f5d5c25814bc44031e2c713f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d6.svg",
+        "sha256": "578df7d11d41232211110b5992bb80a19f51d4b18eb2631f40d645a51dc359d6"
+      }
+    }
+  },
+  {
+    "glyph": "ベ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d9.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d9.svg",
+        "sha256": "caeba460cf0243177df3f07278cc47d6afdd9c816bbd1671b13b4c736f760a47"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d9.svg",
+        "sha256": "51d7e62193ffd721f74334e3ea62f01d1fc0b2fa58e5112bfceab52630ff35dc"
+      }
+    }
+  },
+  {
+    "glyph": "ボ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030dc.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030dc.svg",
+        "sha256": "a990bfd7fc6766e168aa5d98aa51cceafcd7671ba50e9dc84057ef3a4ab6a473"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030dc.svg",
+        "sha256": "5b86272f21b63443df624aa1e2859852ad1d113e911205a95277976073d8fbdd"
+      }
+    }
+  },
+  {
+    "glyph": "パ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d1.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d1.svg",
+        "sha256": "22f674e8146c8cd4789b94645b7e63e95f35fb69fdd170aae11b008cad6ea428"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d1.svg",
+        "sha256": "f7fa9ccb5b0b1b9f8d892262801b67fd2bbfedec7ee9896214a4f1fba3df5faa"
+      }
+    }
+  },
+  {
+    "glyph": "ピ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d4.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d4.svg",
+        "sha256": "25084c93f6c2a22969cc7dd1ef6f0b5e7f51d88b4821b3cb9f841b68e22f260b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d4.svg",
+        "sha256": "1366aa35fb2ea04986ec2c8a1506be156f42a3d38681e374a5fe3df85e8cc3c5"
+      }
+    }
+  },
+  {
+    "glyph": "プ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d7.svg",
+        "sha256": "de0327276bbc2912bac8c0b82ed8716a1eb13943fbdad44588cff121f0b7e842"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d7.svg",
+        "sha256": "fb9acc00975f312ecc5d223633c98d68861220f7f7df12b9f5a7480eef493f54"
+      }
+    }
+  },
+  {
+    "glyph": "ペ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030da.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030da.svg",
+        "sha256": "01eac667467429b53a2449e638c6e11a8f3efd9866db5edd1c9418b7ab1b0116"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030da.svg",
+        "sha256": "d1f806a99bf3ad1b03d18c4ba435ca9367538573a943aa3d91b3d2a0d6b4953f"
+      }
+    }
+  },
+  {
+    "glyph": "ポ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030dd.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030dd.svg",
+        "sha256": "62fe1e305f08150fa8c85ccf82d241404123dfacdab3b687f3abb86326364e2f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030dd.svg",
+        "sha256": "e03ef1cecc8c9c72fb0429b3334e2684e7c0de6c71ffd09ca08b2e6503c4086b"
+      }
+    }
+  },
+  {
+    "glyph": "キャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ad.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ad-030e3.svg",
+        "sha256": "158fe243939a98b2cf799ab8518bf66174190d67ce18ebc36c192e18568b2258"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ad-030e3.svg",
+        "sha256": "f8c41c0cb6654ef81908f79b32c5a854c8ada64fe53661f1300c1b39e3bebe89"
+      }
+    }
+  },
+  {
+    "glyph": "キュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ad.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ad-030e5.svg",
+        "sha256": "ad2810d15965b18ca5834bb7577dbb48bfaf3ca27a2bdda3a3e1c96fc157d306"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ad-030e5.svg",
+        "sha256": "134b325e95c7ab0e23353fa76b3b70eab12bfc0bba029429d8beebf94a433540"
+      }
+    }
+  },
+  {
+    "glyph": "キョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ad.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ad-030e7.svg",
+        "sha256": "addec34d75e3ad658dd662179e58dc68d24ab51402a08f09677f7a0b9a8ccf37"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ad-030e7.svg",
+        "sha256": "0ba0ad01970cf2e5b378c29475d719f47e5733ab4d7b9c281ee9d948da8c6631"
+      }
+    }
+  },
+  {
+    "glyph": "シャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b7.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b7-030e3.svg",
+        "sha256": "5e6cafb07a01cdcd9ec490239fbc6e2650b7289ded84c03e29c1949b51fc0c88"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b7-030e3.svg",
+        "sha256": "247a8ee656ced1c0a87aaa485be86048546de60166b45c4ab0e897e4b57e593f"
+      }
+    }
+  },
+  {
+    "glyph": "シュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b7.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b7-030e5.svg",
+        "sha256": "45b28f46ccd0d27334ddfa604682de95961be46087d50ce1be0d0027c5272f07"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b7-030e5.svg",
+        "sha256": "b679ecc797a613c066d729b4208bae032503828f96b4330b6e3638292c3f247c"
+      }
+    }
+  },
+  {
+    "glyph": "ショ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b7.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b7-030e7.svg",
+        "sha256": "bd1fd17f799e2eec39e343e39734949895fbf613a312793d38fcd21b190742ca"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b7-030e7.svg",
+        "sha256": "ca4b2e3462aaf036335cfca0a4449acaa047bd7afa2583bb413ae62ab7da5e46"
+      }
+    }
+  },
+  {
+    "glyph": "チャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c1.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c1-030e3.svg",
+        "sha256": "fb048208d525ea4e2b4cdebc6203f535a9a9a689634672f36f7efa3f01aec3a1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c1-030e3.svg",
+        "sha256": "50a85037d6420e2cef47f2c6215c434ec71084f9b8e90cf0f8fc31a569bc4459"
+      }
+    }
+  },
+  {
+    "glyph": "チュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c1.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c1-030e5.svg",
+        "sha256": "c5ed98c1c6337819893be71cd0cd27224ef24b4fe82153d56514b941943b81d1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c1-030e5.svg",
+        "sha256": "2818025ec29a8fb8c5db3d10923a1e17158516e868823ed0ad2a5e1f9db3aa20"
+      }
+    }
+  },
+  {
+    "glyph": "チョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c1.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c1-030e7.svg",
+        "sha256": "942929320098b92c76ddbcd59e604bd1caac131d9f19ca40fe6dce7bcac20a47"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c1-030e7.svg",
+        "sha256": "028ca74e9f3bdf0c0c7f420ff13cd8e53c14a890842206d75aefd82f3f41b5ff"
+      }
+    }
+  },
+  {
+    "glyph": "ニャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cb.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cb-030e3.svg",
+        "sha256": "fe46f79b124ac6f9cc59022983b2da6e77adf5c6678a659125ff2d3eacaa671b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cb-030e3.svg",
+        "sha256": "07aac4beb0a1dd020489bce8545400e1e3f22d8b2e1424ab5202738ab0810de4"
+      }
+    }
+  },
+  {
+    "glyph": "ニュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cb.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cb-030e5.svg",
+        "sha256": "fe760eb9d503c142ba03eed05def4d6521148bd965e4271709d9842edf7226dc"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cb-030e5.svg",
+        "sha256": "725a75aefb126fbf2bdb497a3087287be11e4f5e6b05994b59a353f2356f23a6"
+      }
+    }
+  },
+  {
+    "glyph": "ニョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030cb.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030cb-030e7.svg",
+        "sha256": "47244016a9df46a41ae10389f8353f75c72dfa96f25215a65e6920ea34ec7e8f"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030cb-030e7.svg",
+        "sha256": "55e2cc56b2a14cd1fca48ceb090929221acb67e8af415e73860d1d5b0c7d460d"
+      }
+    }
+  },
+  {
+    "glyph": "ヒャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d2.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d2-030e3.svg",
+        "sha256": "7f5f75821c744266a16727dc9634f3664049227e7664c31b37cda4808d144724"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d2-030e3.svg",
+        "sha256": "5f05440dc8a0f5c690dbfcf67d4a2dd1edffbb9466e78dead1754a66dcadc7c7"
+      }
+    }
+  },
+  {
+    "glyph": "ヒュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d2.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d2-030e5.svg",
+        "sha256": "33a29b7dfa815598f79d8a51df3fa9311fdc4581e1091420765ead21203951e8"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d2-030e5.svg",
+        "sha256": "a28a8f345156f8e84963aec16f59f0b99fe21a4231f5f79fa6da729d1de79aaa"
+      }
+    }
+  },
+  {
+    "glyph": "ヒョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d2.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d2-030e7.svg",
+        "sha256": "a603450dc012b9d3649c9f7b91c571ae61b8b66b8d61344e0f0f019809b80ee1"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d2-030e7.svg",
+        "sha256": "832ad8241c2c6559a50bf7619f836c03f24a62804e33785bc694a38e050be08c"
+      }
+    }
+  },
+  {
+    "glyph": "ミャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030df.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030df-030e3.svg",
+        "sha256": "9e8703229eb68669ec36a520328298b467ca08c354535f6f8831f817bb2847cd"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030df-030e3.svg",
+        "sha256": "042bf8f0c786cb28c2ab8a78350600e125bc8c43ee81198e70c72fe22045a7bc"
+      }
+    }
+  },
+  {
+    "glyph": "ミュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030df.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030df-030e5.svg",
+        "sha256": "e6e7255c6cedda2eb8beff66741cbd9c38339e9dd39d913d7be380133190087c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030df-030e5.svg",
+        "sha256": "7d1ce6ab8c119fe2fb78ef4d8ecd8defa134837c4830c147e4956243800c1c4d"
+      }
+    }
+  },
+  {
+    "glyph": "ミョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030df.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030df-030e7.svg",
+        "sha256": "f5bf1223d246e0a186dcfdfa2586999cb0fc48f7e774d9b2cfec5f215d461552"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030df-030e7.svg",
+        "sha256": "680e70535bd5ffe6e8c97559ce66e344b2fe2deb5c26497952bb0f84dc38e854"
+      }
+    }
+  },
+  {
+    "glyph": "リャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ea.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ea-030e3.svg",
+        "sha256": "8497002f364dfe00fc39ed2ab449bb046dbffd6b9ec3a40239a90b6dbf330ce7"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ea-030e3.svg",
+        "sha256": "8f74d79b2f5846f04bc7f2bf657501a4a033d55cdd595084110c5c233f5bd13c"
+      }
+    }
+  },
+  {
+    "glyph": "リュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ea.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ea-030e5.svg",
+        "sha256": "341f9c6e881a20050c1047e2414fdc056c30b222d1b17577c762211c8ac1ecff"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ea-030e5.svg",
+        "sha256": "174d2ab3253be79ecb385a4ef3b23d106cdb91e01534096f2b2f51426d40524d"
+      }
+    }
+  },
+  {
+    "glyph": "リョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ea.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ea-030e7.svg",
+        "sha256": "ce862248188f580b89c9d283eae28cc4bafc9152180db43228035dea27994b48"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ea-030e7.svg",
+        "sha256": "36c91ee81b8f9b1b02236639a284ae30b4f02b5e390e41edaae65b8ace689d79"
+      }
+    }
+  },
+  {
+    "glyph": "ギャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ae.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ae-030e3.svg",
+        "sha256": "caf49a27b67606545252b76d9366c5689b5b1c6edda1af06b0b386df854b9e8c"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ae-030e3.svg",
+        "sha256": "6e47e2a728270ffb5537f664aa81cde9e0751b74c79ca0e2819c7b289deb4d71"
+      }
+    }
+  },
+  {
+    "glyph": "ギュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ae.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ae-030e5.svg",
+        "sha256": "b83a5ebd910e305af76052fa88e0e491fa45b90718c7149a00318157acaa5b93"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ae-030e5.svg",
+        "sha256": "9ef87b09c1ac507c064f8463380746a42f9a2c803c2a6377698a05de08eff4b7"
+      }
+    }
+  },
+  {
+    "glyph": "ギョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030ae.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030ae-030e7.svg",
+        "sha256": "6299e5019e719a0cb8ff01da2fe07243d2d50462affe3631221f2c82f902059a"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030ae-030e7.svg",
+        "sha256": "57bf64bc8a5473339f036e9b14a93ac4ad442393dc9ee10a3dbac90b445a4afa"
+      }
+    }
+  },
+  {
+    "glyph": "ジャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b8.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b8-030e3.svg",
+        "sha256": "91c1d967f37a5c4b7e63a0c9272d834a922d32891e2f35d449b84c7cc12f0fc0"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b8-030e3.svg",
+        "sha256": "fcb2d0b4e7af3e39d496ba888b25c557275dafac918eb0a695eddafcc46dc22a"
+      }
+    }
+  },
+  {
+    "glyph": "ジュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b8.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b8-030e5.svg",
+        "sha256": "a7c25b000dff03004da2de87bc379b8ea2d8135fe2553d885ed34057a6269f22"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b8-030e5.svg",
+        "sha256": "1bf325224869b8586150fb51eb840ed580860c4c94bfb618adc0f0815638a36a"
+      }
+    }
+  },
+  {
+    "glyph": "ジョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030b8.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030b8-030e7.svg",
+        "sha256": "04b36904b5c5f115735564b8580161b4990761f5d863836a5095b32dee96c135"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030b8-030e7.svg",
+        "sha256": "6fa49e869699301bfe2def1e623b9f2b62953c78de3657195560843c6ad2d25a"
+      }
+    }
+  },
+  {
+    "glyph": "ビャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d3.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d3-030e3.svg",
+        "sha256": "766e031c52418fcaa0cfc7653d43782bb0ee10912757638a7be3af63041e9144"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d3-030e3.svg",
+        "sha256": "e2ec9a690d3c5f5cf90cb39f07d1cfd7db611ddba9f1945d2a33a186e2a060c1"
+      }
+    }
+  },
+  {
+    "glyph": "ビュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d3.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d3-030e5.svg",
+        "sha256": "925c50a3d7f2477a7a75bb106cd8e5ef07daef9f67f31c4fc42758ce773c31f2"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d3-030e5.svg",
+        "sha256": "c946bb4c3fb7fda498f1775fcccb39598caa3f78e70c1c066f92606a84e9a4e3"
+      }
+    }
+  },
+  {
+    "glyph": "ビョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d3.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d3-030e7.svg",
+        "sha256": "d56b7c7f6b77b4d89c7b4c89f2269be37db041543faf705595c9ed328b1afd97"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d3-030e7.svg",
+        "sha256": "7bc7b65d32abe5847feb9584500b84bc3d81fc6f531c018e6a6c28d7666b32fd"
+      }
+    }
+  },
+  {
+    "glyph": "ピャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d4.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d4-030e3.svg",
+        "sha256": "aff8d5f24caeadc22e6441b797296e658f42bd4366433cb9f38f97cc416257ef"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d4-030e3.svg",
+        "sha256": "6e48afb899e03d70f078eb4b192c26ca094ff5c2ecc82a53f31507c7fa304806"
+      }
+    }
+  },
+  {
+    "glyph": "ピュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d4.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d4-030e5.svg",
+        "sha256": "1be08d17fd3bb489d539dca0c6a17963909036eff476ded3355210b26d0f5de8"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d4-030e5.svg",
+        "sha256": "2dff6eade3d10e074f05d879a392f7b96510b994b58edd4e32707defaf7e7a95"
+      }
+    }
+  },
+  {
+    "glyph": "ピョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030d4.svg",
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030d4-030e7.svg",
+        "sha256": "08c2c6a3417218fa3d1b56ae975918b75261188138e9b55df4aa187903e7e56b"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030d4-030e7.svg",
+        "sha256": "1e8ff4d5c9bc4ad14743a5ebf1fc2d142ca57ea28dd738272369c2ac7501d6c8"
+      }
+    }
+  },
+  {
+    "glyph": "ゃ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03083.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03083.svg",
+        "sha256": "524fac9b28f3ce3c4cd82db97d792ab4c26d37e2e4ecc836f32cb6355a2ab773"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03083.svg",
+        "sha256": "c0b2ef3ab792fe149e3b43b9812530a782f0d71c061fbbdc9c8a288da665443b"
+      }
+    }
+  },
+  {
+    "glyph": "ゅ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03085.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03085.svg",
+        "sha256": "87588e7264a1b5f00c4caec3ac1676bc8d96093c6f8fac79d451084bab3424dd"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03085.svg",
+        "sha256": "10cac1198667e1780fc37514f493d684251c3158b49ea04e7a7ca06e486c5a77"
+      }
+    }
+  },
+  {
+    "glyph": "ょ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03087.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03087.svg",
+        "sha256": "bd917c212fe1975b6562dc4a4fb3df75369722d22c597aa4da9b62d7d726a434"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03087.svg",
+        "sha256": "304356e5317c058cdc016c6656ad7fc3bfb70d66bdea3ef142bf103c31fe157a"
+      }
+    }
+  },
+  {
+    "glyph": "っ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/03063.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-03063.svg",
+        "sha256": "3cabf78434704879be94468d0bdd72615d44550afea4f22c9109039427148868"
+      },
+      "en": {
+        "filename": "jkf-en-writing-03063.svg",
+        "sha256": "2301f3f0da70ad4a6d2332b45bec234061ec3bf942401ca57700e2ebaa8a6669"
+      }
+    }
+  },
+  {
+    "glyph": "ャ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e3.svg",
+        "sha256": "5027df017e5a63b084d6f061b25f4252f1588434ba04e640815f463f13f818fc"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e3.svg",
+        "sha256": "5c44377f5499bfad882f257c9234c4db64fb98c116ce400fd26392fa4603ea84"
+      }
+    }
+  },
+  {
+    "glyph": "ュ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e5.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e5.svg",
+        "sha256": "1cf8bdef10c2ad730eba513d0b2d5f9c9eaab88ffa4d8f8443b5d455316d94d2"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e5.svg",
+        "sha256": "bfc86eb173200be581dac9b7fc8176735ee555b65c30e3222c83792c0f68f55a"
+      }
+    }
+  },
+  {
+    "glyph": "ョ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030e7.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030e7.svg",
+        "sha256": "b85ce5af14b07d54173c149835a9e380d74ce3ac29e45fc6745a60a583fcefa6"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030e7.svg",
+        "sha256": "715aac1c994294af516a47331759eb4f34edd173378661f9fdd37c650f5ef388"
+      }
+    }
+  },
+  {
+    "glyph": "ッ",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030c3.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030c3.svg",
+        "sha256": "6500145aa469517ec4d77bcd9085f3ac0c9ff5ccf45ecd7940e607a46a0cd106"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030c3.svg",
+        "sha256": "8f1622d3bf89b711f8a407c77b5a02f2b6d24c447a9d7c04324eeddf18de3135"
+      }
+    }
+  },
+  {
+    "glyph": "ー",
+    "author": "Ulrich Apel / KanjiVG",
+    "license": "CC-BY-SA-3.0",
+    "source_urls": [
+      "https://raw.githubusercontent.com/KanjiVG/kanjivg/master/kanji/030fc.svg"
+    ],
+    "adaptation": "Progressive panels, colors, start dots, direction arrows and bilingual labels",
+    "diagrams": {
+      "cn": {
+        "filename": "jkf-cn-writing-030fc.svg",
+        "sha256": "936fbb396597ba8f18735ee5ddf8dcd9613b2356d152a28a2d19cc8b85305787"
+      },
+      "en": {
+        "filename": "jkf-en-writing-030fc.svg",
+        "sha256": "c1920f291f3f98f54a9075b45cd69c41012ea0d1425398373d8accdaa0a99cc5"
+      }
+    }
+  }
+]

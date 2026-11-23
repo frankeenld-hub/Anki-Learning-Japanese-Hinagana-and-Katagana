@@ -1,0 +1,2 @@
+7ab14258f71667456355a7d66e3aedc3037f36dbf161eb4582164c8fb2e6574c  decks/Japanese-Kana-Foundations-Chinese.apkg
+75dc0a80ef29f267a4216fbc08722ba4b59179ace9ebb28b749d900197ce4f87  decks/Japanese-Kana-Foundations-English.apkg
